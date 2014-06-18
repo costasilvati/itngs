@@ -9,3 +9,5 @@ Este software foi desenvolvido para fazer o tratamento de sequências oriundas d
 
 
 Para relizar estas tarefas o software utiliza linguagem *JAVA*, e a ferramenta *MegaBLAST* como alinhador de sequências.
+
+Faça do download da ferramenta em https://itngs.googlecode.com/svn/trunk/ITNGS_MVC/store/ITNGS_1.0.zip
